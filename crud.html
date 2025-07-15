@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CRUD Product Manager</title>
+  <link rel="stylesheet" href="crud.css">
+  <script src="crud.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>CRUD Product List</h2>
+  <input type="text" id="name" placeholder="Product Name">
+  <input type="number" id="price" placeholder="Product Price">
+  <textarea id="description" rows="3" placeholder="Product Description"></textarea>
+  <button onclick="addOrUpdateProduct()">Add Product</button>
+
+  <div class="product-list" id="productList"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
