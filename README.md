@@ -1,2 +1,7 @@
-# Javascript_Mini_projects
-This repository contains a collection of simple JavaScript mini projects I created to understand core concepts like DOM manipulation, events, loops, arrays, functions, and conditionals. Each project focuses on a specific topic and helped me learn JavaScript by practicing real examples and building logic through hands-on coding.
+# JavaScript Mini Projects 🚀
+
+This repository is a growing collection of JavaScript mini projects that I'm building daily as I learn. Each project focuses on a specific concept like DOM manipulation, events, arrays, functions, loops, and more.
+
+I'm using these small, practical examples to understand JavaScript better through hands-on practice. New projects will be added regularly as I continue my learning journey.
+
+Feel free to explore and follow along!
